@@ -1,0 +1,20 @@
+.overall{
+    background-image: url("img4.jpg")!important;
+    opacity: 0.9;
+}
+
+.top{
+  background-color: rgb(243, 234, 216);
+  border: 1px solid black;
+  opacity: 0.9;
+}
+
+.heading{
+    color: rgb(6, 10, 109);
+
+}
+
+.para{
+    color: rgb(6, 10, 109);
+    font-weight: bolder;
+}
