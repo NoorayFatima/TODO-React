@@ -1,4 +1,4 @@
-# TaskFlow – Your Personal To-Do Manager ✅  
+# To-Do Manager ✅  
 
 A clean and interactive **To-Do List Application** built with **React.js**, designed as part of my *“Learning by Doing”* project series. It helps users manage daily tasks, stay organized, and visualize progress with a stats graph.  
 
