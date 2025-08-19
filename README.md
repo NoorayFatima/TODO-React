@@ -1,12 +1,58 @@
-# React + Vite
+# TaskFlow – Your Personal To-Do Manager ✅  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and interactive **To-Do List Application** built with **React.js**, designed as part of my *“Learning by Doing”* project series. It helps users manage daily tasks, stay organized, and visualize progress with a stats graph.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
 
-## Expanding the ESLint configuration
+- ➕ **Add Tasks** – Create new todos quickly  
+- ✅ **Mark as Completed** – Toggle tasks done/not done  
+- 📝 **Edit Tasks** – Update any existing todo  
+- ❌ **Delete Tasks** – Remove tasks easily  
+- 🧹 **Clear Completed** – One-click cleanup  
+- 🔍 **Filter Tasks** – Show All / Active / Completed  
+- 💾 **Persistent Storage** – Saves tasks with `localStorage`  
+- 📊 **Stats Bar with Graph** – Visualize completed vs active tasks  
+- 🎨 **Modern UI** – Responsive, clean design with TailwindCSS  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Live Demo  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **React.js** – Frontend framework  
+- **TailwindCSS** – Styling & responsiveness  
+- **localStorage API** – Data persistence  
+- **Chart.js + React Chart.js 2** – Graph/Stats visualization  
+
+---
+
+## ⚡ Getting Started  
+
+### 1. Clone the Repository  
+- git clone https://github.com/your-username/todo-app.git
+- cd todo-app
+### @.Install Dependencies
+- npm install
+### 3. Run the Development Server
+- npm run dev
+### 4. Build for Production
+npm run build
+### 📸 Screenshot
+<img width="943" height="437" alt="img" src="https://github.com/user-attachments/assets/45af4b67-f533-4ae4-b2fb-8cb0dd5a60cf" />
+
+
+## 💡 Future Enhancements
+- 🔔 Add task reminders/notifications
+- 📱 PWA support for offline usage
+- ☁️ Backend integration with database (MongoDB/Firebase)
+- 🌙 Dark/Light mode toggle
+  
+## 🙌 Acknowledgements
+Inspired by the “Learning by Doing” approach
+
+
