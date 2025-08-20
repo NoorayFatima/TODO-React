@@ -19,7 +19,7 @@ A clean and interactive **To-Do List Application** built with **React.js**, desi
 ---
 
 ## 🚀 Live Demo  
-
+ musical-tapioca-1514d1.netlify.app
 ---
 
 ## 🛠️ Tech Stack  
@@ -36,7 +36,7 @@ A clean and interactive **To-Do List Application** built with **React.js**, desi
 ### 1. Clone the Repository  
 - git clone https://github.com/your-username/todo-app.git
 - cd todo-app
-### @.Install Dependencies
+### 2.Install Dependencies
 - npm install
 ### 3. Run the Development Server
 - npm run dev
